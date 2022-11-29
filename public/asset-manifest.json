@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ff1a00b.css",
+    "main.js": "/static/js/main.58612335.js",
+    "static/js/787.9f7e44b0.chunk.js": "/static/js/787.9f7e44b0.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/cart.svg": "/static/media/cart.533414071cad8a4fd9c1.svg",
+    "static/media/notification.svg": "/static/media/notification.ce6ed309fcccd8f2f87a.svg",
+    "static/media/chevrons-right.svg": "/static/media/chevrons-right.1fcf443643deb99cb826.svg",
+    "static/media/menu.svg": "/static/media/menu.e43e079897c3e9342ff6.svg",
+    "index.html": "/index.html",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.d2db70fb22e6569a1a30.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.17a1db5037922e1018b8.svg",
+    "static/media/check-circle.svg": "/static/media/check-circle.f1e70610b44e0f78a34d.svg",
+    "static/media/chevron-down.svg": "/static/media/chevron-down.b0e39f43977dd2573378.svg",
+    "static/media/Line 81.svg": "/static/media/Line 81.527735d957dd75111cf4.svg",
+    "static/media/Line 82.svg": "/static/media/Line 82.23417a371818ff320e0a.svg",
+    "main.9ff1a00b.css.map": "/static/css/main.9ff1a00b.css.map",
+    "main.58612335.js.map": "/static/js/main.58612335.js.map",
+    "787.9f7e44b0.chunk.js.map": "/static/js/787.9f7e44b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff1a00b.css",
+    "static/js/main.58612335.js"
+  ]
+}
